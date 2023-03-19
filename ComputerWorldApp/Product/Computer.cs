@@ -18,6 +18,9 @@ namespace ComputerWorldApp
         private double _price = 0;
         private string _country = null;
         private int _productCode = 0;
+        private double _price2 = 0;
+        private string _country2 = null;
+        private int _productCode2 = 0;
 
         public int ProductCode
         { get { return _productCode; } }
