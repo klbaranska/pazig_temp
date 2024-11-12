@@ -43,6 +43,7 @@ namespace ComputerWorldApp
             // Dodanie nowego produktu do magazynu
             warehouse.Add(new Computer());
             Console.WriteLine(warehouse);
+            Console.WriteLine("Some text");
 
             // Wykorzystanie indeksera (NALEŻY ODKOMENTOWAĆ)
             //int index = 2;
