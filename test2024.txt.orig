@@ -1,5 +1,8 @@
-<<<<<<< HEAD
 empty
-=======
+asd
 cwcww
->>>>>>> new_branch
+<<<<<<< HEAD
+let's make a conflict
+=======
+new feature 123
+>>>>>>> new_feature
