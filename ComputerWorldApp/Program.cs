@@ -22,6 +22,7 @@ namespace ComputerWorldApp
             // Odbiór produktu o id 10
             Computer c3 = shopManager.PickUpComputer(10);
             Console.WriteLine(c3);
+            Console.WriteLine(c3);
 
             // Odbiór produktu o id 1
             Computer c4 = shopManager.PickUpComputer(1);
